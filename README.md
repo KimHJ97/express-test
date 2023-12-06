@@ -23,3 +23,17 @@ $ npm install
 # 프로젝트 실행
 $ npm run dev
 ```
+
+<br/>
+
+## 테스트 요청
+
+ - 상태 조회용
+    - [GET] http://localhost:3000/status
+    - [GET] http://localhost:3000/status/db
+    - [GET] http://localhost:3000/get
+    - [POST] http://localhost:3000/post
+ - Hello 조회용
+    - [GET] http://localhost:3000/hello
+    - [POST] http://localhost:3000/hello
+
